@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://gkx638-21:8080/services/SysaidApiService?wsdl" uri="xml-resources/web-service-references/SysaidApiService/wsdl/gkx638-21_8080/services/SysaidApiService.wsdl"/>
+    <system systemId="http://gkx638-21:8080/services/SysaidApiService?xsd=1" uri="xml-resources/web-service-references/SysaidApiService/wsdl/gkx638-21_8080/services/SysaidApiService.xsd_1.xsd"/>
+</catalog>
